@@ -1,0 +1,4 @@
+C:\exercises\Exercises\helloWorld\obj\Debug\net8.0\LearnC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\exercises\Exercises\helloWorld\obj\Debug\net8.0\LearnC#.AssemblyInfoInputs.cache
+C:\exercises\Exercises\helloWorld\obj\Debug\net8.0\LearnC#.AssemblyInfo.cs
+C:\exercises\Exercises\helloWorld\obj\Debug\net8.0\LearnC#.csproj.CoreCompileInputs.cache

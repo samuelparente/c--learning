@@ -1,0 +1,14 @@
+C:\exercises\Exercises\UserInput\bin\Debug\net8.0\UserInput.exe
+C:\exercises\Exercises\UserInput\bin\Debug\net8.0\UserInput.deps.json
+C:\exercises\Exercises\UserInput\bin\Debug\net8.0\UserInput.runtimeconfig.json
+C:\exercises\Exercises\UserInput\bin\Debug\net8.0\UserInput.dll
+C:\exercises\Exercises\UserInput\bin\Debug\net8.0\UserInput.pdb
+C:\exercises\Exercises\UserInput\obj\Debug\net8.0\UserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\exercises\Exercises\UserInput\obj\Debug\net8.0\UserInput.AssemblyInfoInputs.cache
+C:\exercises\Exercises\UserInput\obj\Debug\net8.0\UserInput.AssemblyInfo.cs
+C:\exercises\Exercises\UserInput\obj\Debug\net8.0\UserInput.csproj.CoreCompileInputs.cache
+C:\exercises\Exercises\UserInput\obj\Debug\net8.0\UserInput.dll
+C:\exercises\Exercises\UserInput\obj\Debug\net8.0\refint\UserInput.dll
+C:\exercises\Exercises\UserInput\obj\Debug\net8.0\UserInput.pdb
+C:\exercises\Exercises\UserInput\obj\Debug\net8.0\UserInput.genruntimeconfig.cache
+C:\exercises\Exercises\UserInput\obj\Debug\net8.0\ref\UserInput.dll

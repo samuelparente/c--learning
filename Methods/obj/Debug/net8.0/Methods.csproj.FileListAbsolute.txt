@@ -1,0 +1,14 @@
+C:\exercises\Exercises\Methods\bin\Debug\net8.0\Methods.exe
+C:\exercises\Exercises\Methods\bin\Debug\net8.0\Methods.deps.json
+C:\exercises\Exercises\Methods\bin\Debug\net8.0\Methods.runtimeconfig.json
+C:\exercises\Exercises\Methods\bin\Debug\net8.0\Methods.dll
+C:\exercises\Exercises\Methods\bin\Debug\net8.0\Methods.pdb
+C:\exercises\Exercises\Methods\obj\Debug\net8.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\exercises\Exercises\Methods\obj\Debug\net8.0\Methods.AssemblyInfoInputs.cache
+C:\exercises\Exercises\Methods\obj\Debug\net8.0\Methods.AssemblyInfo.cs
+C:\exercises\Exercises\Methods\obj\Debug\net8.0\Methods.csproj.CoreCompileInputs.cache
+C:\exercises\Exercises\Methods\obj\Debug\net8.0\Methods.dll
+C:\exercises\Exercises\Methods\obj\Debug\net8.0\refint\Methods.dll
+C:\exercises\Exercises\Methods\obj\Debug\net8.0\Methods.pdb
+C:\exercises\Exercises\Methods\obj\Debug\net8.0\Methods.genruntimeconfig.cache
+C:\exercises\Exercises\Methods\obj\Debug\net8.0\ref\Methods.dll

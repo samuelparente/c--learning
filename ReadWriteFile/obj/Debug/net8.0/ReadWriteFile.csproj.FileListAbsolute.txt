@@ -1,0 +1,14 @@
+C:\exercises\Exercises\ReadWriteFile\bin\Debug\net8.0\ReadWriteFile.exe
+C:\exercises\Exercises\ReadWriteFile\bin\Debug\net8.0\ReadWriteFile.deps.json
+C:\exercises\Exercises\ReadWriteFile\bin\Debug\net8.0\ReadWriteFile.runtimeconfig.json
+C:\exercises\Exercises\ReadWriteFile\bin\Debug\net8.0\ReadWriteFile.dll
+C:\exercises\Exercises\ReadWriteFile\bin\Debug\net8.0\ReadWriteFile.pdb
+C:\exercises\Exercises\ReadWriteFile\obj\Debug\net8.0\ReadWriteFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\exercises\Exercises\ReadWriteFile\obj\Debug\net8.0\ReadWriteFile.AssemblyInfoInputs.cache
+C:\exercises\Exercises\ReadWriteFile\obj\Debug\net8.0\ReadWriteFile.AssemblyInfo.cs
+C:\exercises\Exercises\ReadWriteFile\obj\Debug\net8.0\ReadWriteFile.csproj.CoreCompileInputs.cache
+C:\exercises\Exercises\ReadWriteFile\obj\Debug\net8.0\ReadWriteFile.dll
+C:\exercises\Exercises\ReadWriteFile\obj\Debug\net8.0\refint\ReadWriteFile.dll
+C:\exercises\Exercises\ReadWriteFile\obj\Debug\net8.0\ReadWriteFile.pdb
+C:\exercises\Exercises\ReadWriteFile\obj\Debug\net8.0\ReadWriteFile.genruntimeconfig.cache
+C:\exercises\Exercises\ReadWriteFile\obj\Debug\net8.0\ref\ReadWriteFile.dll
